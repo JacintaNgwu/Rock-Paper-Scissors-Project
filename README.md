@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-Project
-This is your first JavaScript program built from scratch, so don’t forget the previous lesson on problem solving. Plan your solution out before writing any code, and test each piece as you build to ensure it is working before moving on to the next!
+ This is your first JavaScript program built from scratch, so don’t forget the previous lesson on problem solving. Plan your solution out before writing any code, and test each piece as you build to ensure it is working before moving on to the next!
 Assignment
 
 Don’t forget to commit early & often! You can reference the Commit Message lesson here!
